@@ -1,0 +1,9 @@
+*.exe
+*.out
+*.o
+*.obj
+*.zip
+*.lnk
+*.sln
+*.vcxproj
+*.vcxproj.filters
